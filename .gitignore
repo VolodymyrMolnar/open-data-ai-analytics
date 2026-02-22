@@ -1,1 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
 
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment and secret variables
+.venv/
+.env
+
+# Large data files
+data/raw/
